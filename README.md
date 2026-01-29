@@ -54,5 +54,5 @@ I am a passionate Software Engineer with a strong foundation in building scalabl
 <p align="left">
 <a href="https://www.linkedin.com/in/victor-muriithi-kauma/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-muriithi-kauma" height="30" width="40" /></a>
 <a href="https://x.com/dev_VicMuriithi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_VicMuriithi" height="30" width="40" /></a>
-<a href="mailto:vmuriithi10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="vmuriithi10@gmail.com" height="30" width="40" /></a>
+<a href="mailto:vmuriithi10@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="vmuriithi10@gmail.com" height="30" width="40" /></a>
 </p>
